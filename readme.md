@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+FLYNN-MD;🔥+Here to serve you;💻+Crafted+by+༒ꨄ𝙆𝙄𝘿.𝑐.𝑟.𝑖.𝑠.𝑠 ꨄ  𝙏𝙃ع 𒉽  𒉽  𒉽  𝙇𝞝𝙂𝞝𝞜𝘿 𒉽  𒉽  𒉽" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+FLYNN-MD;🔥+Here to serve you;💻+Crafted+by+c.r.i.s.s" alt="Typing Animation">
 </h1>
 
 <p align="center">
