@@ -20,7 +20,7 @@
     "whatsapp-bot",
     "Ibrahim-Adams"
   ],
-  "author": "Ibrahim Adams",
+  "author": "c.r.i.s.s",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
